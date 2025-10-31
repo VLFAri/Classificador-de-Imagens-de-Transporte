@@ -7,4 +7,4 @@ Na célula de path (onde determina o diretório do dataset), altere o caminho pa
 
 Escolha entre 20-27 épocas para treinamento, pois esse é o npumero minimo para uma acurácia de no mínimo 70% (mais que isso pode dar overffiting) ---: OBS: Isso claro para o dataset que criei, outro dataset fica à sua observação.
 
-Trabalho de autoria de Ari Vargas Leal Filho
+Trabalho de autoria de Ari Vargas Leal Filho.
